@@ -10,7 +10,7 @@ title: Center for Digital Innovation
 email: vbrowne@gsu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Center for Digital Innovation - Georgia State University
-baseurl: ""
+baseurl: "anng217.github.io/cdin/"
 url: ""
 
 include:
